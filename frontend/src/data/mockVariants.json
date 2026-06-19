@@ -1,0 +1,1242 @@
+[
+  {
+    "rsid": "rs1799853",
+    "gene": "CYP2C9",
+    "chrom": "10",
+    "ref": "C",
+    "alt": "T",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "PK/Dosage",
+    "drugs": [
+      {
+        "n": "Warfarin",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      },
+      {
+        "n": "Phenytoin",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      },
+      {
+        "n": "Celecoxib",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      }
+    ],
+    "diseases": [
+      "Warfarin sensitivity",
+      "Thrombophilia"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 42,
+    "rev": 4,
+    "cat": "tag-pk",
+    "tag": "PK/Dosage",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC"
+    ],
+    "desc": "CYP2C9*2 — warfarin dosing",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs1057910",
+    "gene": "CYP2C9",
+    "chrom": "10",
+    "ref": "A",
+    "alt": "C",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "PK/Dosage",
+    "drugs": [
+      {
+        "n": "Warfarin",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      },
+      {
+        "n": "Flurbiprofen",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      }
+    ],
+    "diseases": [
+      "Warfarin sensitivity"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 38,
+    "rev": 4,
+    "cat": "tag-pk",
+    "tag": "PK/Dosage",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC"
+    ],
+    "desc": "CYP2C9*3 — reduced warfarin clearance",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs4244285",
+    "gene": "CYP2C19",
+    "chrom": "10",
+    "ref": "G",
+    "alt": "A",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "Drug Efficacy",
+    "drugs": [
+      {
+        "n": "Clopidogrel",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      },
+      {
+        "n": "Omeprazole",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      },
+      {
+        "n": "Escitalopram",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      }
+    ],
+    "diseases": [
+      "Poor metaboliser phenotype"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 55,
+    "rev": 4,
+    "cat": "tag-ef",
+    "tag": "Drug Efficacy",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC",
+      "Other"
+    ],
+    "desc": "CYP2C19*2 — clopidogrel non-responder",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs4986893",
+    "gene": "CYP2C19",
+    "chrom": "10",
+    "ref": "G",
+    "alt": "A",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "Drug Efficacy",
+    "drugs": [
+      {
+        "n": "Clopidogrel",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      },
+      {
+        "n": "Voriconazole",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      }
+    ],
+    "diseases": [
+      "Poor metaboliser phenotype"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 31,
+    "rev": 3,
+    "cat": "tag-ef",
+    "tag": "Drug Efficacy",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC"
+    ],
+    "desc": "CYP2C19*3 — loss-of-function allele",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs3892097",
+    "gene": "CYP2D6",
+    "chrom": "22",
+    "ref": "C",
+    "alt": "T",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "PK/Dosage",
+    "drugs": [
+      {
+        "n": "Codeine",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      },
+      {
+        "n": "Tamoxifen",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      },
+      {
+        "n": "Haloperidol",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      }
+    ],
+    "diseases": [
+      "Codeine toxicity risk"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 47,
+    "rev": 4,
+    "cat": "tag-pk",
+    "tag": "PK/Dosage",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC"
+    ],
+    "desc": "CYP2D6*4 — poor metaboliser",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs1045642",
+    "gene": "ABCB1",
+    "chrom": "7",
+    "ref": "C",
+    "alt": "T",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "Drug Efficacy",
+    "drugs": [
+      {
+        "n": "Digoxin",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      },
+      {
+        "n": "Fexofenadine",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      }
+    ],
+    "diseases": [
+      "Drug transporter variation"
+    ],
+    "cpic": false,
+    "pgkb": true,
+    "hc": false,
+    "sub": 12,
+    "rev": 2,
+    "cat": "tag-ef",
+    "tag": "Drug Efficacy",
+    "src": [
+      "ClinVar",
+      "PharmGKB"
+    ],
+    "desc": "MDR1 — P-glycoprotein activity",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs9923231",
+    "gene": "VKORC1",
+    "chrom": "16",
+    "ref": "C",
+    "alt": "T",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "PK/Dosage",
+    "drugs": [
+      {
+        "n": "Warfarin",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      },
+      {
+        "n": "Acenocoumarol",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      }
+    ],
+    "diseases": [
+      "Warfarin sensitivity"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 33,
+    "rev": 4,
+    "cat": "tag-pk",
+    "tag": "PK/Dosage",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC"
+    ],
+    "desc": "VKORC1 — warfarin dose sensitivity",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs3745274",
+    "gene": "CYP2B6",
+    "chrom": "19",
+    "ref": "G",
+    "alt": "T",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "Drug Toxicity",
+    "drugs": [
+      {
+        "n": "Efavirenz",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      },
+      {
+        "n": "Methadone",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      }
+    ],
+    "diseases": [
+      "Efavirenz toxicity"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 19,
+    "rev": 3,
+    "cat": "tag-tox",
+    "tag": "Drug Toxicity",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC"
+    ],
+    "desc": "CYP2B6*6 — efavirenz CNS toxicity",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs2306283",
+    "gene": "SLCO1B1",
+    "chrom": "12",
+    "ref": "A",
+    "alt": "G",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "Drug Toxicity",
+    "drugs": [
+      {
+        "n": "Simvastatin",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      },
+      {
+        "n": "Atorvastatin",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      },
+      {
+        "n": "Repaglinide",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      }
+    ],
+    "diseases": [
+      "Statin myopathy risk"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 26,
+    "rev": 4,
+    "cat": "tag-tox",
+    "tag": "Drug Toxicity",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC",
+      "Other"
+    ],
+    "desc": "SLCO1B1*1b — statin myopathy risk",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs4149056",
+    "gene": "SLCO1B1",
+    "chrom": "12",
+    "ref": "T",
+    "alt": "C",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "Drug Toxicity",
+    "drugs": [
+      {
+        "n": "Simvastatin",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      },
+      {
+        "n": "Pravastatin",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      }
+    ],
+    "diseases": [
+      "Statin myopathy risk"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 29,
+    "rev": 4,
+    "cat": "tag-tox",
+    "tag": "Drug Toxicity",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC"
+    ],
+    "desc": "SLCO1B1*5 — high statin myopathy risk",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs1801131",
+    "gene": "MTHFR",
+    "chrom": "1",
+    "ref": "A",
+    "alt": "C",
+    "type": "snv",
+    "path": "Uncertain",
+    "drugResp": "Drug Efficacy",
+    "drugs": [
+      {
+        "n": "Methotrexate",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      },
+      {
+        "n": "Folic acid",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      }
+    ],
+    "diseases": [
+      "Homocystinuria",
+      "Neural tube defects"
+    ],
+    "cpic": false,
+    "pgkb": true,
+    "hc": false,
+    "sub": 8,
+    "rev": 2,
+    "cat": "tag-ef",
+    "tag": "Drug Efficacy",
+    "src": [
+      "ClinVar",
+      "PharmGKB"
+    ],
+    "desc": "MTHFR A1298C — folate metabolism",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs1801133",
+    "gene": "MTHFR",
+    "chrom": "1",
+    "ref": "G",
+    "alt": "A",
+    "type": "snv",
+    "path": "Uncertain",
+    "drugResp": "Drug Efficacy",
+    "drugs": [
+      {
+        "n": "Methotrexate",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      },
+      {
+        "n": "5-Fluorouracil",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      }
+    ],
+    "diseases": [
+      "Hyperhomocysteinaemia"
+    ],
+    "cpic": false,
+    "pgkb": true,
+    "hc": false,
+    "sub": 14,
+    "rev": 2,
+    "cat": "tag-ef",
+    "tag": "Drug Efficacy",
+    "src": [
+      "ClinVar",
+      "PharmGKB"
+    ],
+    "desc": "MTHFR C677T — thermolabile variant",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs3918290",
+    "gene": "DPYD",
+    "chrom": "1",
+    "ref": "C",
+    "alt": "T",
+    "type": "snv",
+    "path": "Pathogenic",
+    "drugResp": "Drug Toxicity",
+    "drugs": [
+      {
+        "n": "5-Fluorouracil",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      },
+      {
+        "n": "Capecitabine",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      },
+      {
+        "n": "Tegafur",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      }
+    ],
+    "diseases": [
+      "DPD deficiency",
+      "5-FU toxicity"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 22,
+    "rev": 4,
+    "cat": "tag-tox",
+    "tag": "Drug Toxicity",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC",
+      "Other"
+    ],
+    "desc": "DPYD*2A — severe 5-FU toxicity",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs55886062",
+    "gene": "DPYD",
+    "chrom": "1",
+    "ref": "A",
+    "alt": "C",
+    "type": "snv",
+    "path": "Pathogenic",
+    "drugResp": "Drug Toxicity",
+    "drugs": [
+      {
+        "n": "5-Fluorouracil",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      },
+      {
+        "n": "Capecitabine",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      }
+    ],
+    "diseases": [
+      "DPD deficiency"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 15,
+    "rev": 3,
+    "cat": "tag-tox",
+    "tag": "Drug Toxicity",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC"
+    ],
+    "desc": "DPYD*13 — high 5-FU toxicity risk",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs1800460",
+    "gene": "TPMT",
+    "chrom": "6",
+    "ref": "C",
+    "alt": "T",
+    "type": "snv",
+    "path": "Pathogenic",
+    "drugResp": "Drug Toxicity",
+    "drugs": [
+      {
+        "n": "Azathioprine",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      },
+      {
+        "n": "6-Mercaptopurine",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      },
+      {
+        "n": "Thioguanine",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      }
+    ],
+    "diseases": [
+      "Thiopurine toxicity"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 18,
+    "rev": 4,
+    "cat": "tag-tox",
+    "tag": "Drug Toxicity",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC"
+    ],
+    "desc": "TPMT*3B — myelosuppression risk",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs1142345",
+    "gene": "TPMT",
+    "chrom": "6",
+    "ref": "T",
+    "alt": "C",
+    "type": "snv",
+    "path": "Pathogenic",
+    "drugResp": "Drug Toxicity",
+    "drugs": [
+      {
+        "n": "Azathioprine",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      },
+      {
+        "n": "6-Mercaptopurine",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      }
+    ],
+    "diseases": [
+      "Thiopurine sensitivity"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 16,
+    "rev": 4,
+    "cat": "tag-tox",
+    "tag": "Drug Toxicity",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC"
+    ],
+    "desc": "TPMT*3C — common TPMT deficiency allele",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs116855232",
+    "gene": "NUDT15",
+    "chrom": "13",
+    "ref": "C",
+    "alt": "T",
+    "type": "snv",
+    "path": "Pathogenic",
+    "drugResp": "Drug Toxicity",
+    "drugs": [
+      {
+        "n": "6-Mercaptopurine",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      },
+      {
+        "n": "Azathioprine",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      }
+    ],
+    "diseases": [
+      "Thiopurine toxicity"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 11,
+    "rev": 3,
+    "cat": "tag-tox",
+    "tag": "Drug Toxicity",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC"
+    ],
+    "desc": "NUDT15*2 — East Asian thiopurine toxicity",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs8175347",
+    "gene": "UGT1A1",
+    "chrom": "2",
+    "ref": "TA6",
+    "alt": "TA7",
+    "type": "indel",
+    "path": "Benign",
+    "drugResp": "Drug Toxicity",
+    "drugs": [
+      {
+        "n": "Irinotecan",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      },
+      {
+        "n": "Atazanavir",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      }
+    ],
+    "diseases": [
+      "Gilbert syndrome",
+      "Irinotecan toxicity"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 20,
+    "rev": 4,
+    "cat": "tag-tox",
+    "tag": "Drug Toxicity",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC"
+    ],
+    "desc": "UGT1A1*28 — irinotecan toxicity",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs1051266",
+    "gene": "SLC19A1",
+    "chrom": "21",
+    "ref": "G",
+    "alt": "A",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "Drug Efficacy",
+    "drugs": [
+      {
+        "n": "Methotrexate",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      }
+    ],
+    "diseases": [
+      "Methotrexate efficacy variation"
+    ],
+    "cpic": false,
+    "pgkb": true,
+    "hc": false,
+    "sub": 7,
+    "rev": 1,
+    "cat": "tag-ef",
+    "tag": "Drug Efficacy",
+    "src": [
+      "ClinVar",
+      "PharmGKB"
+    ],
+    "desc": "RFC1 — methotrexate transporter",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs2740574",
+    "gene": "CYP3A4",
+    "chrom": "7",
+    "ref": "A",
+    "alt": "G",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "Drug Efficacy",
+    "drugs": [
+      {
+        "n": "Tacrolimus",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      },
+      {
+        "n": "Cyclosporin",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      }
+    ],
+    "diseases": [
+      "Drug metabolism variation"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": false,
+    "sub": 9,
+    "rev": 2,
+    "cat": "tag-pk",
+    "tag": "PK/Dosage",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC"
+    ],
+    "desc": "CYP3A4*1B — tacrolimus metabolism",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs776746",
+    "gene": "CYP3A5",
+    "chrom": "7",
+    "ref": "A",
+    "alt": "G",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "PK/Dosage",
+    "drugs": [
+      {
+        "n": "Tacrolimus",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      },
+      {
+        "n": "Cyclosporin",
+        "t": "PK/Dosage",
+        "c": "dt-pk"
+      }
+    ],
+    "diseases": [
+      "Drug metabolism variation"
+    ],
+    "cpic": true,
+    "pgkb": true,
+    "hc": true,
+    "sub": 24,
+    "rev": 4,
+    "cat": "tag-pk",
+    "tag": "PK/Dosage",
+    "src": [
+      "ClinVar",
+      "PharmGKB",
+      "CPIC",
+      "Other"
+    ],
+    "desc": "CYP3A5*3 — tacrolimus dose requirement",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs1801280",
+    "gene": "NAT2",
+    "chrom": "8",
+    "ref": "C",
+    "alt": "T",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "PK/Dosage",
+    "drugs": [
+      {
+        "n": "Isoniazid",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      },
+      {
+        "n": "Sulfamethoxazole",
+        "t": "Drug Toxicity",
+        "c": "dt-tox"
+      }
+    ],
+    "diseases": [
+      "Isoniazid toxicity"
+    ],
+    "cpic": false,
+    "pgkb": true,
+    "hc": false,
+    "sub": 10,
+    "rev": 2,
+    "cat": "tag-pk",
+    "tag": "PK/Dosage",
+    "src": [
+      "ClinVar",
+      "PharmGKB"
+    ],
+    "desc": "NAT2 slow acetylator — INH toxicity",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs1695",
+    "gene": "GSTP1",
+    "chrom": "11",
+    "ref": "A",
+    "alt": "G",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "Drug Efficacy",
+    "drugs": [
+      {
+        "n": "Platinum agents",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      },
+      {
+        "n": "Cyclophosphamide",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      }
+    ],
+    "diseases": [
+      "Chemotherapy response variation"
+    ],
+    "cpic": false,
+    "pgkb": true,
+    "hc": false,
+    "sub": 6,
+    "rev": 1,
+    "cat": "tag-ef",
+    "tag": "Drug Efficacy",
+    "src": [
+      "ClinVar",
+      "PharmGKB"
+    ],
+    "desc": "GSTP1 — chemotherapy response",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs1800497",
+    "gene": "ANKK1",
+    "chrom": "11",
+    "ref": "G",
+    "alt": "A",
+    "type": "snv",
+    "path": "Uncertain",
+    "drugResp": "Drug Efficacy",
+    "drugs": [
+      {
+        "n": "Haloperidol",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      },
+      {
+        "n": "Metoclopramide",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      }
+    ],
+    "diseases": [
+      "Antipsychotic response variation"
+    ],
+    "cpic": false,
+    "pgkb": true,
+    "hc": false,
+    "sub": 5,
+    "rev": 1,
+    "cat": "tag-ef",
+    "tag": "Drug Efficacy",
+    "src": [
+      "ClinVar",
+      "PharmGKB"
+    ],
+    "desc": "DRD2 Taq1A — dopamine receptor",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs1799971",
+    "gene": "OPRM1",
+    "chrom": "6",
+    "ref": "A",
+    "alt": "G",
+    "type": "snv",
+    "path": "Benign",
+    "drugResp": "Drug Efficacy",
+    "drugs": [
+      {
+        "n": "Morphine",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      },
+      {
+        "n": "Naltrexone",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      },
+      {
+        "n": "Methadone",
+        "t": "Drug Efficacy",
+        "c": "dt-ef"
+      }
+    ],
+    "diseases": [
+      "Opioid response variation"
+    ],
+    "cpic": false,
+    "pgkb": true,
+    "hc": false,
+    "sub": 8,
+    "rev": 2,
+    "cat": "tag-ef",
+    "tag": "Drug Efficacy",
+    "src": [
+      "ClinVar",
+      "PharmGKB"
+    ],
+    "desc": "OPRM1 A118G — opioid response",
+    "hasDrug": true
+  },
+  {
+    "rsid": "rs28897696",
+    "gene": "BRCA2",
+    "chrom": "13",
+    "ref": "G",
+    "alt": "T",
+    "type": "snv",
+    "path": "Pathogenic",
+    "drugResp": null,
+    "drugs": [],
+    "diseases": [
+      "Hereditary breast/ovarian cancer"
+    ],
+    "cpic": false,
+    "pgkb": false,
+    "hc": true,
+    "sub": 63,
+    "rev": 4,
+    "cat": "tag-na",
+    "tag": "ClinVar only",
+    "src": [
+      "ClinVar"
+    ],
+    "desc": "BRCA2 pathogenic — HBOC",
+    "hasDrug": false
+  },
+  {
+    "rsid": "rs80357713",
+    "gene": "BRCA1",
+    "chrom": "17",
+    "ref": "C",
+    "alt": "T",
+    "type": "snv",
+    "path": "Pathogenic",
+    "drugResp": null,
+    "drugs": [],
+    "diseases": [
+      "Hereditary breast cancer"
+    ],
+    "cpic": false,
+    "pgkb": false,
+    "hc": true,
+    "sub": 48,
+    "rev": 4,
+    "cat": "tag-na",
+    "tag": "ClinVar only",
+    "src": [
+      "ClinVar"
+    ],
+    "desc": "BRCA1 pathogenic — high penetrance",
+    "hasDrug": false
+  },
+  {
+    "rsid": "rs113488022",
+    "gene": "BRAF",
+    "chrom": "7",
+    "ref": "A",
+    "alt": "T",
+    "type": "snv",
+    "path": "Pathogenic",
+    "drugResp": null,
+    "drugs": [],
+    "diseases": [
+      "Melanoma",
+      "Colorectal cancer"
+    ],
+    "cpic": false,
+    "pgkb": false,
+    "hc": true,
+    "sub": 35,
+    "rev": 3,
+    "cat": "tag-na",
+    "tag": "ClinVar only",
+    "src": [
+      "ClinVar"
+    ],
+    "desc": "BRAF V600E — oncogenic driver",
+    "hasDrug": false
+  },
+  {
+    "rsid": "rs121913237",
+    "gene": "TP53",
+    "chrom": "17",
+    "ref": "G",
+    "alt": "A",
+    "type": "snv",
+    "path": "Pathogenic",
+    "drugResp": null,
+    "drugs": [],
+    "diseases": [
+      "Li-Fraumeni syndrome"
+    ],
+    "cpic": false,
+    "pgkb": false,
+    "hc": true,
+    "sub": 27,
+    "rev": 4,
+    "cat": "tag-na",
+    "tag": "ClinVar only",
+    "src": [
+      "ClinVar"
+    ],
+    "desc": "TP53 R175H — dominant negative",
+    "hasDrug": false
+  },
+  {
+    "rsid": "rs587776822",
+    "gene": "LDLR",
+    "chrom": "19",
+    "ref": "C",
+    "alt": "T",
+    "type": "snv",
+    "path": "Pathogenic",
+    "drugResp": null,
+    "drugs": [],
+    "diseases": [
+      "Familial hypercholesterolaemia"
+    ],
+    "cpic": false,
+    "pgkb": false,
+    "hc": true,
+    "sub": 19,
+    "rev": 3,
+    "cat": "tag-na",
+    "tag": "ClinVar only",
+    "src": [
+      "ClinVar"
+    ],
+    "desc": "LDLR — FH pathogenic variant",
+    "hasDrug": false
+  },
+  {
+    "rsid": "rs28940279",
+    "gene": "PTEN",
+    "chrom": "10",
+    "ref": "G",
+    "alt": "A",
+    "type": "snv",
+    "path": "Pathogenic",
+    "drugResp": null,
+    "drugs": [],
+    "diseases": [
+      "Cowden syndrome"
+    ],
+    "cpic": false,
+    "pgkb": false,
+    "hc": false,
+    "sub": 9,
+    "rev": 2,
+    "cat": "tag-na",
+    "tag": "ClinVar only",
+    "src": [
+      "ClinVar"
+    ],
+    "desc": "PTEN — tumour suppressor LOF",
+    "hasDrug": false
+  },
+  {
+    "rsid": "rs786205033",
+    "gene": "CFTR",
+    "chrom": "7",
+    "ref": "C",
+    "alt": "T",
+    "type": "snv",
+    "path": "Pathogenic",
+    "drugResp": null,
+    "drugs": [],
+    "diseases": [
+      "Cystic fibrosis"
+    ],
+    "cpic": false,
+    "pgkb": false,
+    "hc": true,
+    "sub": 44,
+    "rev": 4,
+    "cat": "tag-na",
+    "tag": "ClinVar only",
+    "src": [
+      "ClinVar"
+    ],
+    "desc": "CFTR — classic CF variant",
+    "hasDrug": false
+  },
+  {
+    "rsid": "rs63750850",
+    "gene": "HTT",
+    "chrom": "4",
+    "ref": "CAG19",
+    "alt": "CAG42",
+    "type": "indel",
+    "path": "Pathogenic",
+    "drugResp": null,
+    "drugs": [],
+    "diseases": [
+      "Huntington's disease"
+    ],
+    "cpic": false,
+    "pgkb": false,
+    "hc": true,
+    "sub": 31,
+    "rev": 4,
+    "cat": "tag-na",
+    "tag": "ClinVar only",
+    "src": [
+      "ClinVar"
+    ],
+    "desc": "HTT CAG expansion — Huntington",
+    "hasDrug": false
+  },
+  {
+    "rsid": "rs267607172",
+    "gene": "MLH1",
+    "chrom": "3",
+    "ref": "G",
+    "alt": "A",
+    "type": "snv",
+    "path": "Uncertain",
+    "drugResp": null,
+    "drugs": [],
+    "diseases": [
+      "Lynch syndrome"
+    ],
+    "cpic": false,
+    "pgkb": false,
+    "hc": false,
+    "sub": 4,
+    "rev": 1,
+    "cat": "tag-na",
+    "tag": "ClinVar only",
+    "src": [
+      "ClinVar"
+    ],
+    "desc": "MLH1 VUS — Lynch syndrome candidate",
+    "hasDrug": false
+  }
+]
